@@ -1,0 +1,3 @@
+[submodule "transition-hook-diy"]
+	path = transition-hook-diy
+	url = https://github.com/muyeyong/transition-hook-diy.git
